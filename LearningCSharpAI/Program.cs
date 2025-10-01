@@ -1,6 +1,4 @@
-﻿// set up the client
-
-using DotNetEnv;
+﻿using DotNetEnv;
 using OllamaSharp;
 
 Env.TraversePath().Load();
